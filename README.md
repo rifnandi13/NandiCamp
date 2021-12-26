@@ -31,9 +31,4 @@ Registering
 ![image](https://user-images.githubusercontent.com/96609390/147412031-b98aac31-6666-43b2-b9e4-bbe336b9718b.png)
 
 
-Login Page
-![image](https://user-images.githubusercontent.com/96609390/147412021-2c001110-34c3-472d-8aa1-b906be49ad36.png)
-
-
-Campground Index
-![image](https://user-images.githubusercontent.com/96609390/147412007-5942b5fd-b5e1-4013-92cb-f22d87f064af.png)
+Also not that the App is still rough around the edges and I am constantly updating them.
